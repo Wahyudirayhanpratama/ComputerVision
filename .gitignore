@@ -1,0 +1,28 @@
+# File Python & cache
+__pycache__/
+*.pyc
+
+# File lingkungan/env
+.env
+venv/
+ENV/
+
+# File model besar
+*.h5
+*.hdf5
+*.keras
+
+# File upload hasil sementara
+static/*.jpg
+static/*.png
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Sistem
+.DS_Store
+Thumbs.db
